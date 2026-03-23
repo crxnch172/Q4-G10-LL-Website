@@ -262,7 +262,7 @@ section{
 .home .media-icons{
     z-index: 888;
     position: absolute;
-    right: 60px;
+    right: 20px;
     display: flex;
     flex-direction: column;
     gap: 20px;
