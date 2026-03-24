@@ -21,6 +21,7 @@ body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
+    overflow-y: hidden;
     flex-direction: column;
     background: linear-gradient(135deg, #383961, #271033);
 }
