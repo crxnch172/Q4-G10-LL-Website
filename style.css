@@ -39,7 +39,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 5%;
+    padding: 10px 10%;
     transition: 0.5s ease;
     animation: navbarSlideDown 0.8s ease forwards;
 }   
@@ -191,6 +191,7 @@ header .navigation  .navigation-items  a:hover:before{
 section{
     padding: 100px 5%;
 }
+
 .home .cta-link {
     display: inline-block;
     color: #fff;
