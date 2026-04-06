@@ -209,6 +209,7 @@ section{
 
 .home-page {
     background-color:#474056;
+    overflow-y: hidden;
 }
 
 .journey-page {
@@ -240,7 +241,9 @@ section{
     display: block;
 }
 
-
+.video-slide.active { 
+    overflow-y: hidden;
+}
 
 .home .content h1{
     font-size: 3em;
